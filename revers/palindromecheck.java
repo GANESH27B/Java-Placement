@@ -1,3 +1,4 @@
+package revers;
 import java.util.*;
 class palindromecheck{
     public static void main(String[] args){

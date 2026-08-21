@@ -1,3 +1,4 @@
+package revers;
 import java.util.*;
 class uppertolower{
     public static void main(String[] args){

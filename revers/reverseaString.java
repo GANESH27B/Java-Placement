@@ -1,3 +1,4 @@
+package revers;
 import java.util.*;
 class reverseaString{
     public static void main(String[] args){
